@@ -1,20 +1,22 @@
 UNL005-6APP
-Es un proyecto del marco de capacidades en el ecosistema dijital en bogota
+Es un proyecto del marco de capacidades en el ecosistema dijital en la localidad de la candelaria
 
-Yo reciclo
+Unete club
 Integrantes
 Javier Mendoza Harolt Goméz Santiago Vargas
 
 -Ruth Beltrán
 
 #Descripción del proyecto: 
-aplicacion movil para asesoramiento en la recoleccion de basuras para personas naturales y colegios en la ciudad de bogota.
+aplicacion movil la union de la comunidad de la candelaria con los eventos creados por comerciantes o alcaldia local.
 
 #Funciones básicas: 
 -El usuario debe generar un login
--discriminacion de los usuarios. 
--recomenddaciones para el manejo de sus residuos. 
--localizacion centros de acopio.
+-capacidad de generar una asistencia
+-creacion y publicaciòn de eventos 
+-sistema de puntos por asistencia
+-localizacion de eventos.
+
 
 Funciones de los integrantes.
 
