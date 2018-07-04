@@ -1,15 +1,21 @@
-## Proyecto Únete Club La Candelaria
+## Únete Club La Candelaria
 
-### Nombre
-### Descripción y contexto
+### Proyecto en Desarrollo (plantilla en construcción)
+### Descripción y Contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+Proyecto basado en el prototipo presentado por la iniciativa Únete en La Candelaria durante el desarrollo del Laboratorio de Innovación Turística de La Candelaria (Labitur), con el apoyo de la Alcaldía Local de La Candelaria.
+https://wnete.com/my-blog/
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
+### Propósito
+---
+Desarrollo de un nuevo producto que haciendo uso de los beneficios de la tecnología proporcione a los turistas y visitantes de la localidad una experiencia novedosa, a la vez que promueve beneficios económicos para los grupos sociales y productivos, y para la comunidad en general de La Candelaria. No se trata solamente de una plataforma web y móvil, sino de la posibilidad de establecer nuevos canales de interacción de la comunidad con sus visitantes, utilizando una app como herramienta, pero siendo las acciones humanas lo que realmente promueve y ejecuta el propósito del producto.
+
+## Documentación Técnica en desarrollo.
+---
 
 ### Guía de usuario
 ---
-Explica los pasos básicos sobre cómo usar la herramienta digital. Es una buena sección para mostrar capturas de pantalla o gifs que ayuden a entender la herramienta digital.
+Explica los pasos básicos sobre cómo usar la herramienta digital. 
  	
 ### Guía de instalación
 ---
@@ -47,7 +53,7 @@ Esta es la sección que permite agregar más información de contexto al proyect
 
 ### Licencia 
 ---
-[LICENCIA](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/LICENSE.md)
+[LICENCIA](https://github.com/wnete)
 
 La licencia especifica los permisos y las condiciones de uso que el desarrollador otorga a otros desarrolladores que usen y/o modifiquen la herramienta digital.
 
@@ -55,10 +61,4 @@ Incluye en esta sección una note con el tipo de licencia otorgado a esta herram
 
 Si desconoces qué tipos de licencias existen y cuál es la mejor para cada caso, te recomendamos visitar la página https://choosealicense.com/.
 
-## Limitación de responsabilidades
 
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
-
-i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
-
-ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
